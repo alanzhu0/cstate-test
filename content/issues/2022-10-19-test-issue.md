@@ -8,8 +8,12 @@ affected:
   - API
 severity: disrupted
 ---
-*a*﻿
+<p>
 
-*b*﻿
+a﻿﻿
 
-*c*
+b﻿
+
+c
+
+<﻿/p>
