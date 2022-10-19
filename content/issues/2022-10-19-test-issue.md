@@ -8,18 +8,6 @@ affected:
   - API
 severity: disrupted
 ---
-# h1
-
-## ﻿h2
-
-### ﻿h3
-
-#### ﻿h4
-
-##### ﻿h5
-
----
-
 **Update October 19, 1:15pm:**
 
 All services have been restored. Sysadmins are continuing to investigate the cause of the issues.
