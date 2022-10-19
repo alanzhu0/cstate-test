@@ -12,7 +12,7 @@ severity: disrupted
 
 All services have been restored. Sysadmins are continuing to investigate the cause of the issues.
 
-**Update October 19, 8:40am: **
+**Update October 19, 8:40am:**
 
 A fix has been identified for unclickable links on the Ion Dashboard and will be deployed as soon as possible. To circumvent this for now, zoom out the page (Ctrl -) and the buttons will work. Tin is adjusting to the higher load from computer science classes, and may respond slower than normal, but has been restored to normal functionality.
 
