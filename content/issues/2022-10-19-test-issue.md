@@ -3,6 +3,8 @@ section: issue
 title: Test issue
 date: 2022-10-19T16:19:32.707Z
 resolved: false
+informational: true
+pin: true
 resolvedWhen: ""
 affected:
   - API
