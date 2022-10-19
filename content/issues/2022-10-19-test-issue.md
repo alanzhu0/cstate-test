@@ -8,4 +8,6 @@ affected:
   - API
 severity: disrupted
 ---
-a﻿b﻿c &#13; def
+a﻿b﻿c 
+
+def
