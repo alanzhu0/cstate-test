@@ -3,7 +3,7 @@ section: issue
 title: Test issue
 date: 2022-10-19T16:19:32.707Z
 resolved: false
-informational: true
+informational: false
 pin: true
 resolvedWhen: ""
 affected:
