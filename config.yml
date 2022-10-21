@@ -57,6 +57,10 @@ params:
         video. It is reliant on our CDN.
       category: Uncategorized
       
+    - name: Other
+      description: other other
+      category: other
+      
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -79,6 +83,9 @@ params:
     - name: Empty Category
     - name: Uncategorized
       untitled: true
+    - name: Other
+      description: other cateogory
+     
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
